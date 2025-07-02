@@ -1,6 +1,6 @@
-# 💼 Hashmi Amreen - Portfolio & Resume
+# 💼 Hashmi Amreen - Resume
 
-Welcome to my **Portfolio & Resume Repository**! This repository showcases my professional resume and portfolio in a clean and responsive HTML format.
+Welcome to my **Resume Repository**! This repository showcases my professional resume in a clean and responsive HTML format.
 
 ## 👩‍💻 About Me
 
